@@ -1,5 +1,5 @@
 def hoge
-  p "I am a boy"
+  p "I am Leah"
 end
 
 hoge
