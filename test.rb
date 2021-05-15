@@ -1,9 +1,10 @@
 def hoge
   p "I am Ari"
 end
-git push origin master
 
-
+def age
+  p "３歳です"
+end
 
 
 
